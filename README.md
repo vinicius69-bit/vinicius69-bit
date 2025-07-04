@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil!
 
-<!--
-**vinicius69-bit/vinicius69-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Vinicius
 
-Here are some ideas to get you started:
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo
+
+vinicius.maior.freitas@escola.pr.gov.br
+
+![](https://media.tenor.com/e37gY2dtUJUAAAAi/good-morning.gif)
